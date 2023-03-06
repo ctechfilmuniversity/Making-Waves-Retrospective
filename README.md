@@ -4,6 +4,10 @@
 ## Andreea, Jonathan
 ## Marco
 
+
+https://user-images.githubusercontent.com/93442123/223133333-6ec67e04-13e3-4808-8038-8fb97e67b1bb.mp4
+
+
 For my performance, I used a dawless setup consisting of an Elektron Syntakt 12 track mono-synth and a Digitone FM 4 track poly-synth. I ran the Digitone into the Syntakt's inputs to make use of it's analog fx track and to fade in a new track with the digitone master gain.
 
 The data structure of both devices can be described as Project>Songs>Patterns>Tracks>Sounds.
