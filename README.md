@@ -5,7 +5,7 @@ Each session opened with a short theoretical introduction, followed by practical
 
 In said final performances, students from multiple backgrounds came together to present their existing work, to collaborate on a singular audio-visual piece or to perform their own 15 minutes live-set. The open workshop format enabled students to create their individual setups around their personal artistic goals and needs, but also allowed the workshop to evolve over time and to sharpen its focus.
 
-## Session 0ne - Inspiration and Exploration
+## Session One - Inspiration and Exploration
 
 For the very first session, the goal was to inspire the students visually and provide them with an overview of the available muscical tools.
 After a short introduction to the concept of generative algorithms ("creating data similar to existing data"),
