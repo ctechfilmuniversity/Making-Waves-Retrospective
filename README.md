@@ -3,6 +3,7 @@
 The Making Waves workshop series introduced students to generative compositional techniques in the context of live performance.
 Each session opened with a short theoretical introduction, followed by practical demonstrations and an open session in which the students could incorporate their learnings into their final performance. 
 
+In said final performances, students from multiple backgrounds came together to present their existing work, to collaborate on a singular audio-visual piece or to perform their own 15 minutes live-set. The open workshop format enabled students to create their individual setup around their personal artistic goals and needs, but also allowed the workshop to evolve over time and to sharpen its focus.
 
 ## Final Performances
 ## Andreea, Jonathan
