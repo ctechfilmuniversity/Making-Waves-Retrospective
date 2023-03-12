@@ -39,7 +39,13 @@ Lara's session on her own work, influences and techniques took a different appro
 
 ![lara](https://user-images.githubusercontent.com/93442123/224565359-320e0252-161d-4058-bc26-e747a61eb141.JPG)
 
+## Session Three
 
+## Session Four
+
+Session four ventured more deeply into the generative capabilities of Ableton Live and Max Msp/Max for Live. 
+The focus fot the first part were generative techniques built into Ableton Live, such as follwing action, midi probability and lfo-driven sound design.
+The second part of the theoretical session was led by Justin Robinson, who presented his generative instrument Pärtinator in addition to an overview of the Max MSP visual programming environment. 
 
 ## Final Performances
 ## Andreea, Jonathan
