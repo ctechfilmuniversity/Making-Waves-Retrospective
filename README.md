@@ -24,29 +24,28 @@ During the second half of the workshop, the students had the opportunity to expl
 * Korg Minilogue
 * Critter & Guitari Organelle
 
-## Session Two - Sound Synthesis
-
-The goal of session two was to give the students a solid understanding of sound synthesis fundamentals, as well as to encourage them to experiment with more leftfield methods as well. The first presentation by Marco Winter focused largely on subtractive synthesis, demonstrated with the [Ableton Wavetable synthesizer](https://www.ableton.com/de/packs/wavetable/).
+## Session Two - Sound Synthesis Basics and left-field approaches
+The second session of the workshop aimed to provide the students with a solid understanding of sound synthesis fundamentals while also encouraging them to experiment with more left-field methods. Marco Winter gave the first presentation, which largely focused on subtractive and demonstrated with the [Ableton Wavetable synthesizer](https://www.ableton.com/de/packs/wavetable/).
 
 ![synthesis](https://user-images.githubusercontent.com/93442123/224562024-4d1ccd50-3faa-447f-bcfe-b1d0d39f23c3.jpg)
 
-Lara's session on her own work, influences and techniques took a different approach, hightlighting granular synthesis using orchestral samples as an alternative, more explorative way of creating sounds.
+Lara's presentation focused on her own work, influences, and techniques. She took a different approach, highlighting granular synthesis using orchestral samples as an alternative and more explorative way of creating sounds.
 
 ![lara](https://user-images.githubusercontent.com/93442123/224565359-320e0252-161d-4058-bc26-e747a61eb141.JPG)
 
 ## Session Three
+The third session took a break from the music-focused sessions and shifted the focus to creating visuals to complement the final performances. The students presented songs that inspire them and created a shared playlist to get to know each other better, which can be accessed here: [shared playlist](https://open.spotify.com/playlist/7loq1NhkBNZHofEJ2ye6yU?si=9ad230fdd12c4b2c).
 
-As a break from the two previous music-focused session, the focus of this session was on creating visuals to go alongside the final performances.
-To get to know each other further, the students presented songs that inspire them and created a [shared playlist](https://open.spotify.com/playlist/7loq1NhkBNZHofEJ2ye6yU?si=9ad230fdd12c4b2c).
 
-After the warmup, Rita introduced the class to the incredible VJing software resolume, which Giula used to create the following clip:
+
+After the warmup, Rita introduced the class to the powerful VJing software, Resolume.  which Giula used to create the following clip:
 
 
 ## Session Four
 
-Session four ventured more deeply into the generative capabilities of Ableton Live and Max Msp/Max for Live. 
-The focus fot the first part were generative techniques built into Ableton Live, such as follwing action, midi probability and lfo-driven sound design.
-The second part of the theoretical session was led by Justin Robinson, who presented his generative instrument Pärtinator in addition to an overview of the Max MSP visual programming environment. 
+Session four delved deeper into the generative capabilities of Ableton Live and Max Msp/Max for Live. The first part of the session focused on generative techniques built into Ableton Live, such as following action, midi probability, and LFO-driven sound design.
+
+In the second part of the theoretical session, Justin Robinson led a presentation on his generative instrument, Pärtinator, and provided an overview of the Max MSP visual programming environment.
 
 ## Final Performances
 ## Andreea, Jonathan
@@ -57,19 +56,16 @@ The second part of the theoretical session was led by Justin Robinson, who prese
 https://user-images.githubusercontent.com/93442123/223133333-6ec67e04-13e3-4808-8038-8fb97e67b1bb.mp4
 
 
-For my performance, I used a dawless setup consisting of an Elektron Syntakt 12 track mono-synth and a Digitone FM 4 track poly-synth. I ran the Digitone into the Syntakt's inputs to make use of it's analog fx track and to fade in a new track with the digitone master gain.
+For my performance, I opted for a dawless setup comprising of an Elektron Syntakt 12 track mono-synth and a Digitone FM 4 track poly-synth. I routed the Digitone into the Syntakt's inputs to benefit from its analog fx track and also to smoothly bring in a new track with the digitone master gain.
 
-The data structure of both devices can be described as Project>Songs>Patterns>Tracks>Sounds.
-With the recent addition of songmode, I could easily queue songs/patterns and jump in and out of prerecorded sequences, which gave me the mix of structure and improvisation that I was looking for.
-However, as of now, it is not possible to to preassign which patterns should be played in loopmode by default (every pattern plays in a certain number of loops), so if a pattern is supposed to loop for a while, it requires good coordination across both devices.
+Both devices' data structure can be categorized as Project>Songs>Patterns>Tracks>Sounds. With the recent addition of song mode, I could conveniently queue songs/patterns and switch between pre-recorded sequences, achieving the desired balance between structure and improvisation. However, at present, it's not possible to pre-assign which patterns should play in loop mode by default (each pattern plays for a specific number of loops). So, if a pattern needs to loop for a while, it demands good coordination across both devices.
 
 ![photo_2023-03-06_15-13-21](https://user-images.githubusercontent.com/93442123/223134463-e2f5460a-331e-48c6-bd32-08fd7c82d908.jpg)
 
 
-Overall, I was very pleased with this setup and the sound quality - I made every sound from scratch for the first time.
-Except for the short intro, the songs themselves weren't really my cup of tea though, I have to cut things back a little more. My next goal is to work on the integration of both devices into a Daw environment using the Overbridge vst. This way, I can use Ableton Live as a mixer to improve the sound, play samples and do all kinds of crazy fx mangling
+I was very pleased with this setup's sound quality - I designed every sound from scratch for the first time. However, except for the short intro, the songs didn't entirely resonate with me, so I plan to streamline things further. My next objective is to integrate both devices into a Daw environment using the Overbridge VST. This way, I can use Ableton Live as a mixer to refine the sound, play samples, and experiment with various FX techniques.
 
 ## Stefan
 
-For his setup Stefan Püst, went dawless as well, connecting his Roland TR 707 to his Octatrack. 
-Stefan combined multiple prerecorded instrument loops on his TR 707 into full arrangements. He would mute, fade in/out and swap individual loops to create an overarching structure. His Octatrack was mainly used to play prepared transition effects. The patterns of the Octatrack contained effects automations, such as filter sweeps. Stefan used the A/B fader of the Octatrack as his Dry/Wet control to switch to the effect-mangled version of his track at the right moment.
+For his setup Stefan Püst, went dawless as well, connecting his Roland MC 707 to his Octatrack. 
+He utilized the MC 707 to combine multiple prerecorded instrument loops and create full arrangements. By muting, fading in/out, and swapping individual loops, he constructed an overarching structure for his performance. Additionally, he used the Octatrack to play prepared transition effects, with the patterns containing effects automations like filter sweeps. Stefan relied on the A/B fader of the Octatrack as a Dry/Wet control to switch to the effect-mangled version of his track at the appropriate moment.
