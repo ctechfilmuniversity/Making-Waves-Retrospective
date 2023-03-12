@@ -16,13 +16,13 @@ However, the technical introduction to the inner workings of AI went over the he
 
 During the second half of the workshop, the students had the opportunity to explore the musical devices of the Creative Technologies program with the guidance of the lecturers. This part of the session was well-received and included the following devices:
 
-MPC LIVE II
-Elektron Digitone
-Roland MC 707
-Multiple Korg Volcas
-Synthstrom Deluge
-Korg Minilogue
-Critter & Guitari Organelle
+* MPC LIVE II
+* Elektron Digitone
+* Roland MC 707
+* Multiple Korg Volcas
+* Synthstrom Deluge
+* Korg Minilogue
+* Critter & Guitari Organelle
 
 ## Session Two - Sound Synthesis
 
