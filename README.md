@@ -6,27 +6,23 @@ During the final performances, students from diverse backgrounds had the opportu
 
 ## Session One - Inspiration and Exploration
 
-For the very first session, the goal was to inspire the students visually and provide them with an overview of the available muscical tools.
-After a short introduction to the concept of generative algorithms ("creating data similar to existing data"),
-the students were given local installations of the Stable Diffusion image generation AI. They familiarized themselves with the power of this particular generative model and created potential moodboards for their future performance.
+The first session of the workshop aimed to provide visual inspiration and an overview of the available musical tools to the students. After introducing the concept of generative algorithms and their ability to create data similar to existing data, the students were given local installations of the Stable Diffusion image generation AI. They explored the power of this particular generative model and created potential mood boards for their future performances
 
 ![cat](https://user-images.githubusercontent.com/93442123/224561542-e3ef4463-69a9-483f-ad23-7ce9c8712c5c.png)
 ![king crimson](https://user-images.githubusercontent.com/93442123/224561546-b6167e73-9c9a-4118-99b0-a79ea5851d74.png)
 ![steampunk-flower](https://user-images.githubusercontent.com/93442123/224561549-88358dda-2e81-474f-9d20-40931f1ab7c4.png)
 
+However, the technical introduction to the inner workings of AI went over the heads of most students, including the creative technologists. As a result, AI was not further utilized in the course.
 
-The very technical introduction to the inner workings of AI went however over the heads of most students (creative technologists included). 
-In the end, AI was not further untilized for this course.
+During the second half of the workshop, the students had the opportunity to explore the musical devices of the Creative Technologies program with the guidance of the lecturers. This part of the session was well-received and included the following devices:
 
-The second half of the class saw the students explore the muscial devices of the creative technologies program with the help of the lecturers and was received very warmly. 
-These devices included:
-* MPC LIVE II
-* Elektron Digitone
-* Roland MC 707
-* Multiple Korg Volcas
-* Synthstrom Deluge
-* Korg Minilogue
-* Critter & Guitari Organelle
+MPC LIVE II
+Elektron Digitone
+Roland MC 707
+Multiple Korg Volcas
+Synthstrom Deluge
+Korg Minilogue
+Critter & Guitari Organelle
 
 ## Session Two - Sound Synthesis
 
