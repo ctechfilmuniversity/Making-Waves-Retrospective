@@ -1,9 +1,8 @@
 # Making-Waves-Retrospective
 
-The Making Waves workshop series introduced students to generative compositional techniques in the context of live performance.
-Each session opened with a short theoretical introduction, followed by practical demonstrations and an open session in which the students could incorporate their learnings into their final performance. 
+The Making Waves workshop series aimed to introduce students to generative compositional techniques in the context of live performance. Each session began with a brief theoretical introduction, followed by practical demonstrations and an open session for students to apply what they had learned to their final performance.
 
-In said final performances, students from multiple backgrounds came together to present their existing work, to collaborate on a singular audio-visual piece or to perform their own 15 minutes live-set. The open workshop format enabled students to create their individual setups around their personal artistic goals and needs, but also allowed the workshop to evolve over time and to sharpen its focus.
+During the final performances, students from diverse backgrounds had the opportunity to showcase their existing work, collaborate on a unified audio-visual piece, or perform their own 15-minute live set. The open workshop format allowed students to design their individual setups based on their unique artistic goals and needs, while also giving the workshop room to grow and refine its focus over time.
 
 ## Session One - Inspiration and Exploration
 
@@ -40,6 +39,12 @@ Lara's session on her own work, influences and techniques took a different appro
 ![lara](https://user-images.githubusercontent.com/93442123/224565359-320e0252-161d-4058-bc26-e747a61eb141.JPG)
 
 ## Session Three
+
+As a break from the two previous music-focused session, the focus of this session was on creating visuals to go alongside the final performances.
+To get to know each other further, the students presented songs that inspire them and created a [shared playlist](https://open.spotify.com/playlist/7loq1NhkBNZHofEJ2ye6yU?si=9ad230fdd12c4b2c).
+
+After the warmup, Rita introduced the class to the incredible VJing software resolume, which Giula used to create the following clip:
+
 
 ## Session Four
 
