@@ -32,8 +32,18 @@ These devices included:
 ## Session Two - Sound Synthesis
 
 The goal of session two was to give the students a solid understanding of sound synthesis fundamentals, as well as to encourage them to experiment with more leftfield methods as well. The first presentation by Marco Winter focused largely on subtractive synthesis, demonstrated with the [Ableton Wavetable synthesizer](https://www.ableton.com/de/packs/wavetable/).
+
+![synthesis](https://user-images.githubusercontent.com/93442123/224562024-4d1ccd50-3faa-447f-bcfe-b1d0d39f23c3.jpg)
+
+Lara's session on her own work, influences and techniques took a different approach, hightlighting granular synthesis using orchestral samples as an alternative, more explorative way of creating sounds.
+
+![lara](https://user-images.githubusercontent.com/93442123/224565359-320e0252-161d-4058-bc26-e747a61eb141.JPG)
+
+
+
 ## Final Performances
 ## Andreea, Jonathan
+
 ## Marco
 
 
