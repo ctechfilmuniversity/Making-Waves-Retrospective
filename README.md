@@ -31,7 +31,7 @@ These devices included:
 
 ## Session Two - Sound Synthesis
 
-The goal of session two was to give the students a solid understanding of sound synthesis fundamentals, as well as to encourage them to experiment with more leftfield methods as well. The first presentation by Marco Winter focused largely on subtractive synthesis, demonstrated with the [Ableton Wavetable synthesizer](https://www.ableton.com/de/packs/wavetable/.
+The goal of session two was to give the students a solid understanding of sound synthesis fundamentals, as well as to encourage them to experiment with more leftfield methods as well. The first presentation by Marco Winter focused largely on subtractive synthesis, demonstrated with the [Ableton Wavetable synthesizer](https://www.ableton.com/de/packs/wavetable/).
 ## Final Performances
 ## Andreea, Jonathan
 ## Marco
