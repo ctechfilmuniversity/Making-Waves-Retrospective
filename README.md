@@ -11,7 +11,10 @@ For the very first session, the goal was to inspire the students visually and pr
 After a short introduction to the concept of generative algorithms ("creating data similar to existing data"),
 the students were given local installations of the Stable Diffusion image generation AI. They familiarized themselves with the power of this particular generative model and created potential moodboards for their future performance.
 
-Images
+![cat](https://user-images.githubusercontent.com/93442123/224561542-e3ef4463-69a9-483f-ad23-7ce9c8712c5c.png)
+![king crimson](https://user-images.githubusercontent.com/93442123/224561546-b6167e73-9c9a-4118-99b0-a79ea5851d74.png)
+![steampunk-flower](https://user-images.githubusercontent.com/93442123/224561549-88358dda-2e81-474f-9d20-40931f1ab7c4.png)
+
 
 The very technical introduction to the inner workings of AI went however over the heads of most students (creative technologists included). 
 In the end, AI was not further untilized for this course.
@@ -26,7 +29,9 @@ These devices included:
 * Korg Minilogue
 * Critter & Guitari Organelle
 
+## Session Two - Sound Synthesis
 
+The goal of session two was to give the students a solid understanding of sound synthesis fundamentals, as well as to encourage them to experiment with more leftfield methods as well. The first presentation by Marco Winter focused largely on subtractive synthesis, demonstrated with the [Ableton Wavetable synthesizer](https://www.ableton.com/de/packs/wavetable/.
 ## Final Performances
 ## Andreea, Jonathan
 ## Marco
