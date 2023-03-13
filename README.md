@@ -54,7 +54,13 @@ https://user-images.githubusercontent.com/93442123/224732877-46b6915d-66b8-4d4c-
 In the second part of the theoretical session, Justin Robinson led a presentation on his generative instrument, Pärtinator, and provided an overview of the Max MSP visual programming environment.
 
 ## Final Performances
-## Andreea, Jonathan
+## Andreea, Jonathan & Enrique
+
+
+
+https://user-images.githubusercontent.com/93442123/224740964-1b4b6efb-0295-4a78-b2b8-f2d96ba3a3f3.mp4
+
+
 
 ## Marco
 
