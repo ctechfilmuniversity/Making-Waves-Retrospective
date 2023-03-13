@@ -45,12 +45,27 @@ After the warmup, Rita introduced the class to the powerful VJing software, Reso
 
 Session four delved deeper into the generative capabilities of Ableton Live and Max Msp/Max for Live. The first part of the session focused on generative techniques built into Ableton Live, such as following action, midi probability, and LFO-driven sound design.
 
+
+
+https://user-images.githubusercontent.com/93442123/224732877-46b6915d-66b8-4d4c-b651-21a01075251e.MP4
+
+
+
 In the second part of the theoretical session, Justin Robinson led a presentation on his generative instrument, Pärtinator, and provided an overview of the Max MSP visual programming environment.
 
 ## Final Performances
-## Andreea, Jonathan
+## Andreea, Jonathan & Enrique
+
+
+
+https://user-images.githubusercontent.com/93442123/224740964-1b4b6efb-0295-4a78-b2b8-f2d96ba3a3f3.mp4
+
+
 
 ## Marco
+
+
+![Folie1](https://user-images.githubusercontent.com/93442123/224735932-975650eb-c54f-4ad8-b3ba-7dee26a00295.PNG)
 
 
 https://user-images.githubusercontent.com/93442123/223133333-6ec67e04-13e3-4808-8038-8fb97e67b1bb.mp4
@@ -60,12 +75,16 @@ For my performance, I opted for a dawless setup comprising of an Elektron Syntak
 
 Both devices' data structure can be categorized as Project>Songs>Patterns>Tracks>Sounds. With the recent addition of song mode, I could conveniently queue songs/patterns and switch between pre-recorded sequences, achieving the desired balance between structure and improvisation. However, at present, it's not possible to pre-assign which patterns should play in loop mode by default (each pattern plays for a specific number of loops). So, if a pattern needs to loop for a while, it demands good coordination across both devices.
 
-![photo_2023-03-06_15-13-21](https://user-images.githubusercontent.com/93442123/223134463-e2f5460a-331e-48c6-bd32-08fd7c82d908.jpg)
-
-
 I was very pleased with this setup's sound quality - I designed every sound from scratch for the first time. However, except for the short intro, the songs didn't entirely resonate with me, so I plan to streamline things further. My next objective is to integrate both devices into a Daw environment using the Overbridge VST. This way, I can use Ableton Live as a mixer to refine the sound, play samples, and experiment with various FX techniques.
 
 ## Stefan
+
+![Folie1](https://user-images.githubusercontent.com/93442123/224736378-0a3fbd59-9149-4963-9200-3c2ee2709d29.PNG)
+
+
+
+https://user-images.githubusercontent.com/93442123/224733261-28c2e2a3-7702-46ef-a7cd-93ad7e551322.mp4
+
 
 For his setup Stefan Püst, went dawless as well, connecting his Roland MC 707 to his Octatrack. 
 He utilized the MC 707 to combine multiple prerecorded instrument loops and create full arrangements. By muting, fading in/out, and swapping individual loops, he constructed an overarching structure for his performance. Additionally, he used the Octatrack to play prepared transition effects, with the patterns containing effects automations like filter sweeps. Stefan relied on the A/B fader of the Octatrack as a Dry/Wet control to switch to the effect-mangled version of his track at the appropriate moment.
