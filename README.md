@@ -38,7 +38,7 @@ The third session took a break from the music-focused sessions and shifted the f
 
 
 
-After the warmup, Rita introduced the class to the powerful VJing software, Resolume.  which Giula used to create the following clip:
+After the warmup, Rita introduced the class to the powerful VJing software, Resolume.
 
 
 ## Session Four
