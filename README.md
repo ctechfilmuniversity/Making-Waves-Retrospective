@@ -73,5 +73,9 @@ I was very pleased with this setup's sound quality - I designed every sound from
 
 ## Stefan
 
+
+https://user-images.githubusercontent.com/93442123/224733261-28c2e2a3-7702-46ef-a7cd-93ad7e551322.mp4
+
+
 For his setup Stefan Püst, went dawless as well, connecting his Roland MC 707 to his Octatrack. 
 He utilized the MC 707 to combine multiple prerecorded instrument loops and create full arrangements. By muting, fading in/out, and swapping individual loops, he constructed an overarching structure for his performance. Additionally, he used the Octatrack to play prepared transition effects, with the patterns containing effects automations like filter sweeps. Stefan relied on the A/B fader of the Octatrack as a Dry/Wet control to switch to the effect-mangled version of his track at the appropriate moment.
