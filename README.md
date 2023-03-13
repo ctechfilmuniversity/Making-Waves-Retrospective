@@ -4,6 +4,8 @@ The Making Waves workshop series aimed to introduce students to generative compo
 
 During the final performances, students from diverse backgrounds had the opportunity to showcase their existing work, collaborate on a unified audio-visual piece, or perform their own 15-minute live set. The open workshop format allowed students to design their individual setups based on their unique artistic goals and needs, while also giving the workshop room to grow and refine its focus over time.
 
+The recordings of the final performances can be found [here](https://github.com/Myxxin/Making-Waves-Retrospective/tree/main/final_recordings).
+
 ## Session One - Inspiration and Exploration
 
 The first session of the workshop aimed to provide visual inspiration and an overview of the available musical tools to the students. After introducing the concept of generative algorithms and their ability to create data similar to existing data, the students were given local installations of the Stable Diffusion image generation AI. They explored the power of this particular generative model and created potential mood boards for their future performances
