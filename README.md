@@ -26,7 +26,7 @@ During the second half of the workshop, the students had the opportunity to expl
 * Korg Minilogue
 * Critter & Guitari Organelle
 
-## Session Two - Sound Synthesis Basics and left-field approaches
+## Session Two - Sound Synthesis
 The second session of the workshop aimed to provide the students with a solid understanding of sound synthesis fundamentals while also encouraging them to experiment with more left-field methods. Marco Winter gave the first presentation, which largely focused on subtractive and demonstrated with the [Ableton Wavetable synthesizer](https://www.ableton.com/de/packs/wavetable/).
 
 ![synthesis](https://user-images.githubusercontent.com/93442123/224562024-4d1ccd50-3faa-447f-bcfe-b1d0d39f23c3.jpg)
@@ -35,7 +35,7 @@ Lara's presentation focused on her own work, influences, and techniques. She too
 
 ![lara](https://user-images.githubusercontent.com/93442123/224565359-320e0252-161d-4058-bc26-e747a61eb141.JPG)
 
-## Session Three
+## Session Three - Resolume
 The third session took a break from the music-focused sessions and shifted the focus to creating visuals to complement the final performances. The students presented songs that inspire them and created a shared playlist to get to know each other better, which can be accessed here: [shared playlist](https://open.spotify.com/playlist/7loq1NhkBNZHofEJ2ye6yU?si=9ad230fdd12c4b2c).
 
 
@@ -43,8 +43,7 @@ The third session took a break from the music-focused sessions and shifted the f
 After the warmup, Rita introduced the class to the powerful VJing software, Resolume.
 
 
-## Session Four
-
+## Session Four - Generative Techniques in Ableton Live and Max for Live
 Session four delved deeper into the generative capabilities of Ableton Live and Max Msp/Max for Live. The first part of the session focused on generative techniques built into Ableton Live, such as following action, midi probability, and LFO-driven sound design.
 
 
