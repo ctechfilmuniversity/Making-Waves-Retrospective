@@ -59,6 +59,9 @@ In the second part of the theoretical session, Justin Robinson led a presentatio
 ## Marco
 
 
+![Folie1](https://user-images.githubusercontent.com/93442123/224735932-975650eb-c54f-4ad8-b3ba-7dee26a00295.PNG)
+
+
 https://user-images.githubusercontent.com/93442123/223133333-6ec67e04-13e3-4808-8038-8fb97e67b1bb.mp4
 
 
