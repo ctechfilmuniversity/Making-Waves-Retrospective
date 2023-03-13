@@ -45,6 +45,12 @@ After the warmup, Rita introduced the class to the powerful VJing software, Reso
 
 Session four delved deeper into the generative capabilities of Ableton Live and Max Msp/Max for Live. The first part of the session focused on generative techniques built into Ableton Live, such as following action, midi probability, and LFO-driven sound design.
 
+
+
+https://user-images.githubusercontent.com/93442123/224732877-46b6915d-66b8-4d4c-b651-21a01075251e.MP4
+
+
+
 In the second part of the theoretical session, Justin Robinson led a presentation on his generative instrument, Pärtinator, and provided an overview of the Max MSP visual programming environment.
 
 ## Final Performances
