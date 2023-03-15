@@ -57,6 +57,9 @@ In the second part of the theoretical session, Justin Robinson led a presentatio
 ## Final Performances
 ## Andreea, Jonathan & Enrique
 
+![Folie1](https://user-images.githubusercontent.com/93442123/225284679-77fa05ce-b10b-44f8-9349-a30f9e23ef38.JPG)
+
+
 
 
 https://user-images.githubusercontent.com/93442123/224740964-1b4b6efb-0295-4a78-b2b8-f2d96ba3a3f3.mp4
